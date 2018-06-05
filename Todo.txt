@@ -1,0 +1,3 @@
+- Create backend 
+- Create frontend 
+- Create API accounts with Amazon, Tesco, Asda and Morrisons 
